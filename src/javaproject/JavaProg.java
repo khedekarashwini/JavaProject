@@ -7,6 +7,7 @@ public class JavaProg {
         System.out.println("first commit");
 	    //
         //
+        System.out.println("xyz");
 	}
 
 }
